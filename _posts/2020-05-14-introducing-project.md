@@ -8,14 +8,14 @@ categories: OSS Project
 url : <b>https://github.com/irahorecka/visuaudio</b>
 
 ```visuaudio.py``` uses the ```pyqtgraph``` and ```pyaudio``` libraries to view the audio spectrum of input sound.
-<hr>
+
 
 <b>Running the application:</b>
 <ul>
 1) Clone repository <br>
 2) ```$ pip install -r requirements.txt```<br>
 3) ```$ python visuaudio.py```
-
+<hr>
 <br>
 
 
