@@ -3,7 +3,7 @@ title: "Individual Contribution Plan"
 date : 2020-05-20
 categories: OSS Project
 ---
-#Individual Contribution Plan
+### Individual Contribution Plan
 
 <b>## 1.Community Activities Plans</b><br>
 ▷ Register bugs and errors , etc. in the `issue`.<br>
