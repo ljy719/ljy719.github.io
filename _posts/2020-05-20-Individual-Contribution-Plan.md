@@ -5,10 +5,10 @@ categories: OSS Project
 ---
 #Individual Contribution Plan
 
-<b>##1.Community Activities Plans</b>
-▷ Register bugs and errors , etc. in the `issue`.
-▷ Manage registered issues continuously.
-<b>##2. Individual Roles and Activities</b>
-▷ Documenting, translating, and creating documentation for projects.
-<b>##3. Issues, considerations, and suggestions</b>
-▷ Resolve compatibility issues.
+<b>##1.Community Activities Plans</b><br>
+▷ Register bugs and errors , etc. in the `issue`.<br>
+▷ Manage registered issues continuously.<br>
+<b>##2. Individual Roles and Activities</b><br>
+▷ Documenting, translating, and creating documentation for projects.<br>
+<b>##3. Issues, considerations, and suggestions</b><br>
+▷ Resolve compatibility issues.<br>
