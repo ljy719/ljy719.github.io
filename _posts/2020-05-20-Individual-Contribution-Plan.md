@@ -4,7 +4,7 @@ date : 2020-05-20
 categories: OSS Project
 ---
 
-1.Community Activities Plans
+<b>1.Community Activities Plans<\b>
 ▷ Register bugs and errors , etc. in the `issue`.
 ▷ Manage registered issues continuously.
 2. Individual Roles and Activities
