@@ -11,8 +11,8 @@ url : <b>https://github.com/irahorecka/visuaudio</b>
 <hr>
 
 <b>Running the application:</b>
-<ul>
-1) Clone repository 
+<ul><br>
+1) Clone repository <br>
 2) ```$ pip install -r requirements.txt```<br>
 3) ```$ python visuaudio.py```
 
