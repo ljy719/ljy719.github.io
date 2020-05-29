@@ -11,6 +11,7 @@ categories: OSS Project
 <hr>
 
 <b>Running the application:</b>
+</n>
 1) Clone repository
 2) ```$ pip install -r requirements.txt```<br>
 3) ```$ python visuaudio.py```
@@ -27,7 +28,7 @@ categories: OSS Project
 <li>Ensure you have a working input sound source.(ex. Mic)</li>
 <li>Run the application on your native terminal (i.e. not iTerm2, etc.)</li>
 <li>On MacOS, you will have to grant Terminal permission to use the input sound source.</li>
-<li>Linux..?
+<li>Linux..?</li>
 </ul>
 
 <b>Windows</b>
