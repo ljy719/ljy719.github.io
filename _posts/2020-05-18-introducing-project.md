@@ -29,7 +29,7 @@ url : <b>https://github.com/irahorecka/visuaudio</b>
 <li>Linux..?</li>
 </ul>
 
-<b>Windows</b>
+<b>Windows</b><br>
 1) Go link: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio<br>
 2) You should download <b>'PyAudio-0.2.11-cp{your python version}-cp{your python version}m-win_amd64.whl'</b><br>
 3) $ pip install PyAudio-0.2.11-cp37-cp37m-win_amd64.whl</li>
