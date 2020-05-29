@@ -5,7 +5,7 @@ categories: OSS Project
 ---
 
 ### A fun GUI application to visualize audio spectrum
-<b>https://github.com/irahorecka/visuaudio</b>
+url : <b>https://github.com/irahorecka/visuaudio</b>
 
 ```visuaudio.py``` uses the ```pyqtgraph``` and ```pyaudio``` libraries to view the audio spectrum of input sound.
 <hr>
