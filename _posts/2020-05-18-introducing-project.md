@@ -1,8 +1,6 @@
 ---
 title: "VISUAUDIO"
 date : 2020-05-18
-header:
-  image : assets/images/visuaudio.png
 categories: OSS Project
 ---
 
@@ -19,7 +17,7 @@ url : <b>https://github.com/irahorecka/visuaudio</b>
 2) $ pip install -r requirements.txt<br>
 3) $ python visuaudio.py
 <br>
-![image](https://user-images.githubusercontent.com/63694834/82566735-5116f180-9bb7-11ea-9eef-abdafb0eb497.png)
+
 
 <p align="center">
 </p>
