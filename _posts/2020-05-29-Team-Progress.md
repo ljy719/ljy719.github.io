@@ -8,3 +8,4 @@ categories: OSS Project
 <li>Version compatibility issue in Ubuntu Linux environment with numpy ==1.18.3<br></li>
 <li>Version compatibility issue in Ubuntu Linux environment with PyQt5 ==5.14.2<br></li><br><br>
 # Adding Visualization Features
+
