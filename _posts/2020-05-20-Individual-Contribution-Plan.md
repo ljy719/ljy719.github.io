@@ -10,5 +10,5 @@ categories: OSS Project
 ▷ Manage registered issues continuously.<br>
 ## 2. Individual Roles and Activities <br>
 ▷ Documenting, translating, and creating documentation for projects.<br>
-## 3. Issues, considerations, and suggestions<br>
+## 3. Issues, Considerations, and Suggestions<br>
 ▷ Resolve compatibility issues.<br>
