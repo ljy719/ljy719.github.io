@@ -5,7 +5,7 @@ categories: OSS Project
 ---
 
 
-## 1.Community Activities Plans<br>
+## 1. Community Activities Plans<br>
 ▷ Register bugs and errors , etc. in the `issue`.<br>
 ▷ Manage registered issues continuously.<br>
 ## 2. Individual Roles and Activities <br>
