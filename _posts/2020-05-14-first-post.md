@@ -12,9 +12,9 @@ categories: OSS Project
 
 <b>Running the application:</b>
 <ul>
-1) Clone repository <ul>
-2) ```$ pip install -r requirements.txt```<br><ul>
-3) ```$ python visuaudio.py```<ul>
+1) Clone repository 
+2) ```$ pip install -r requirements.txt```<br>
+3) ```$ python visuaudio.py```
 
 <br>
 
