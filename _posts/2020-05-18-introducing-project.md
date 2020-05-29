@@ -2,7 +2,7 @@
 title: "VISUAUDIO"
 date : 2020-05-18
 header:
-image : assets/images/visuaudio.png
+  image : assets/images/visuaudio.png
 categories: OSS Project
 ---
 
