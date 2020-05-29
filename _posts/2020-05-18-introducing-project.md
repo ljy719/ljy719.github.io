@@ -22,8 +22,6 @@ url : <b>https://github.com/irahorecka/visuaudio</b>
 
 
 <p align="center">
-header:
-  image : assets/images/visuaudio.png
 </p>
 <b>Notes:</b>
 <ul>
