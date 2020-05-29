@@ -1,6 +1,8 @@
 ---
 title: "VISUAUDIO"
 date : 2020-05-18
+header:
+image : assets/images/visuaudio.png
 categories: OSS Project
 ---
 
@@ -20,7 +22,8 @@ url : <b>https://github.com/irahorecka/visuaudio</b>
 
 
 <p align="center">
-image : assets/images/visuaudio.png
+  header:
+  image : assets/images/visuaudio.png
 </p>
 <b>Notes:</b>
 <ul>
