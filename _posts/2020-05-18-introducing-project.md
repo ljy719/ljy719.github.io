@@ -20,7 +20,7 @@ url : <b>https://github.com/irahorecka/visuaudio</b>
 
 
 <p align="center">
-<img src=https://user-images.githubusercontent.com/63779148/83284755-1dbc0e80-a218-11ea-9abb-9607e298ec12.png>
+image : assets/images/visuaudio.png
 </p>
 <b>Notes:</b>
 <ul>
